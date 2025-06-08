@@ -5,3 +5,5 @@ zippedData/
 *.csv
 *.zip
 *.gz
+*zippedData/im.db
+*im.db
