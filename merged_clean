@@ -1,0 +1,17 @@
+year,worldwide_gross,domestic_gross,foreign_gross,primary_genre,genres,averagerating,numvotes,studio,primary_title,runtime_minutes,movie_id,title,title_clean,original_title,start_year
+2010,150,80,70,Action,"Action,Adventure",7.5,150000,StudioA,Movie A,120,tt1000000,Movie A,Movie A,Movie A,2010
+2010,200,120,80,Comedy,Comedy,6.8,80000,StudioB,Movie B,95,tt1000001,Movie B,Movie B,Movie B,2010
+2011,180,90,90,Action,"Action,Thriller",7.8,120000,StudioA,Movie C,130,tt1000002,Movie C,Movie C,Movie C,2011
+2011,220,130,90,Drama,"Drama,Romance",7.0,90000,StudioC,Movie D,110,tt1000003,Movie D,Movie D,Movie D,2011
+2012,250,150,100,Comedy,Comedy,7.2,100000,StudioB,Movie E,100,tt1000004,Movie E,Movie E,Movie E,2012
+2012,300,180,120,Action,"Action,Sci-Fi",8.1,200000,StudioA,Movie F,140,tt1000005,Movie F,Movie F,Movie F,2012
+2013,280,160,120,Drama,Drama,7.5,110000,StudioC,Movie G,115,tt1000006,Movie G,Movie G,Movie G,2012
+2013,350,200,150,Comedy,Comedy,6.9,95000,StudioB,Movie H,90,tt1000007,Movie H,Movie H,Movie H,2013
+2014,320,190,130,Sci-Fi,"Sci-Fi,Adventure",8.5,300000,StudioD,Movie I,150,tt1000008,Movie I,Movie I,Movie I,2014
+2014,380,220,160,Action,"Action,Crime",7.9,180000,StudioA,Movie J,135,tt1000009,Movie J,Movie J,Movie J,2014
+2015,400,240,160,Comedy,Comedy,7.1,90000,StudioB,Movie K,105,tt1000010,Movie K,Movie K,Movie K,2015
+2015,450,270,180,Sci-Fi,"Sci-Fi,Fantasy",8.8,350000,StudioD,Movie L,160,tt1000011,Movie L,Movie L,Movie L,2015
+2016,420,250,170,Drama,Drama,7.6,105000,StudioC,Movie M,125,tt1000012,Movie M,Movie M,Movie M,2016
+2016,480,290,190,Action,"Action,Thriller",8.2,210000,StudioA,Movie N,145,tt1000013,Movie N,Movie N,Movie N,2016
+2017,500,300,200,Animation,"Animation,Family",7.9,130000,StudioE,Movie O,100,tt1000014,Movie O,Movie O,Movie O,2017
+2017,550,330,220,Fantasy,"Fantasy,Adventure",8.3,250000,StudioF,Movie P,130,tt1000015,Movie P,Movie P,Movie P,2017
