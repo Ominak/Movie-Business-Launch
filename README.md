@@ -1,5 +1,4 @@
-# **Movie Business Launch Analysis & Recommendations**
-!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.entrepreneur.com%2Fen-za%2Fstarting-a-business%2Fexamples-of-film-related-business-ideas%2F334938&psig=AOvVaw1QTwvcLTdAAYBMN6huZO9Y&ust=1749469207913000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCNDD6fHe4Y0DFQAAAAAdAAAAABAL)
+![# **Movie Business Launch Analysis & Recommendations**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.entrepreneur.com%2Fen-za%2Fstarting-a-business%2Fexamples-of-film-related-business-ideas%2F334938&psig=AOvVaw1QTwvcLTdAAYBMN6huZO9Y&ust=1749469207913000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCNDD6fHe4Y0DFQAAAAAdAAAAABAL)
 
 ![alt text](image.png)
 
