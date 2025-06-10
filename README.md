@@ -1,4 +1,4 @@
-![# **Movie Business Launch Analysis & Recommendations**]
+ **Movie Business Launch Analysis & Recommendations**
 
 ![alt text](image.png)
 
